@@ -92,16 +92,16 @@ This is also good for formatters, "fixing" linters, and other scripts with (at l
 
 ```
 # Windows
-git clone https://www.github.com/ShayHill/scratch_term ~\vimfiles\pack\plugins\start
+git clone https://www.github.com/ShayHill/vim9-scratchterm ~\vimfiles\pack\plugins\start
 
 # Linux
-git clone https://www.github.com/ShayHill/scratch_term ~/.vim/pack/plugins/start
+git clone https://www.github.com/ShayHill/vim9-scratchterm ~/.vim/pack/plugins/start
 
-If you're cloning in, cd in Vim to the `pack/whatever/whatever/scratch_term/doc`
+If you're cloning in, cd in Vim to the `pack/whatever/whatever/vim9-scratchterm/doc`
 directory and run `:helptags`
 
 # with minpac
-call minpac#add('shayhill/scratch_term')
+call minpac#add('shayhill/vim9-scratchterm')
 ```
 
 
