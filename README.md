@@ -1,4 +1,4 @@
-# scratch_term
+# vim9-scratchterm
 
 Open terminals without losing focus. Close terminals with minimum disruption.
 
